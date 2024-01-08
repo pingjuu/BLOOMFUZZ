@@ -18,14 +18,20 @@ $sudo pip3 install ouilookup==0.2.4
 
 
 ## Running the fuzzer
-
+### Create log dir in BLOOMFUZZ
+```
+mkdir log
+```
 ### Normal transition capture to run fuzzer.
+```
+mkdir CommCapture
+```
 - Start Bluetooth packet capture with Wireshark.
 - Connect the host running the fuzzer to the target device.
 - End the capture and save the pcapng file in the CommCapture directory.
 
 ### How to run
-1. move to Bloom folder.
+1. move to BLOOMFUZZ folder.
 2. run main.py with sudo.
 ```
 sudo python3 ./main.py -p CommCapture/[filename].pcapng
