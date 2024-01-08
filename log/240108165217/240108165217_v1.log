@@ -1,0 +1,6 @@
+[   DEBUG] ouilookup v0.2.4
+[   DEBUG] {'data_paths': ['/var/lib/ouilookup', '/usr/local/lib/python3.8/dist-packages/OuiLookup/data']}
+[   DEBUG] OuiLookup::query(expression=00:1A:7D:DA:71:13)
+[   DEBUG] OuiLookup::query() - terms ['001A7DDA7113']
+[   DEBUG] OuiLookup::__load_datafile()
+[   DEBUG] OuiLookup::__load_datafile() - loading data_file /usr/local/lib/python3.8/dist-packages/OuiLookup/data/oui.json
