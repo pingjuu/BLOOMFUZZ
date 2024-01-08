@@ -44,8 +44,8 @@ nearby devices : 2
 
 	Target Bluetooth Device List
 	[No.]	[BT address]		[Device name]		[Device Class]					[OUI]
-	00.	AA:BB:CC:DD:EE:FF		Pixel 3			Phone(Smartphone)			Google, Inc.
-	01.	FF:EE:DD:CC:BB:AA		pingjuu2		Computer(Desktop workstation)	cyber-blue(HK)Ltd
+	00.	AA:BB:CC:DD:EE:FF	Pixel 3		Phone(Smartphone)			Google, Inc.
+	01.	FF:EE:DD:CC:BB:AA	pingjuu2	Computer(Desktop workstation)	cyber-blue(HK)Ltd
 	Found 2 devices
 
 Choose Device : 0
